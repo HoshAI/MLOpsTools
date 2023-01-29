@@ -10,7 +10,7 @@ MLOps tools, pipelines and frameworks for flexibility and scalability in ML work
   1.4 Data Validation.
   1.5 Data Splitting.
  
-2. Model development + training at scale:\
+2. Model development + training at scale::\
   2.1 Model training.\
   2.2 Model Validation.\
   2.3 MOdel training at scale.
